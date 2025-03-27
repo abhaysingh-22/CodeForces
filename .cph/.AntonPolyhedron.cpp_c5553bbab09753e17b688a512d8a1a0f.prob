@@ -1,0 +1,1 @@
+{"name":"Local: AntonPolyhedron","url":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\AntonPolyhedron.cpp","tests":[{"id":1743008230902,"input":"4\nIcosahedron\nCube\nTetrahedron\nDodecahedron","output":"42"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\AntonPolyhedron.cpp","group":"local","local":true}
