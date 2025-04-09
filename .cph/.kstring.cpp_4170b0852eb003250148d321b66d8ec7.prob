@@ -1,0 +1,1 @@
+{"name":"Local: kstring","url":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\kstring.cpp","tests":[{"id":1744021163863,"input":"2\naazz\n","output":"azaz\n"},{"id":1744021186152,"input":"3\nabcabcabz\n","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\kstring.cpp","group":"local","local":true}
