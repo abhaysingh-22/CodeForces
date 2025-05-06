@@ -1,0 +1,1 @@
+{"name":"Local: DrazilDate","url":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\DrazilDate.cpp","tests":[{"id":1746551174008,"input":"10 15 25","output":"YES"},{"id":1746551186963,"input":"5 5 11","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\DrazilDate.cpp","group":"local","local":true}
