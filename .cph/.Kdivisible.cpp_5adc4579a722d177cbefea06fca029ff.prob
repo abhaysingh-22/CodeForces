@@ -1,0 +1,1 @@
+{"name":"Local: Kdivisible","url":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\Kdivisible.cpp","tests":[{"id":1746592259073,"input":"4\n1 5\n4 3\n8 8\n8 17\n","output":"5\n2\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\Kdivisible.cpp","group":"local","local":true}
