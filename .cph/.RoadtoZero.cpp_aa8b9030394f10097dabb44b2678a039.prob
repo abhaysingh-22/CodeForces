@@ -1,0 +1,1 @@
+{"name":"Local: RoadtoZero","url":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\RoadtoZero.cpp","tests":[{"id":1746596536735,"input":"2\n1 3\n391 555\n0 0\n9 4\n","output":"1337\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\RoadtoZero.cpp","group":"local","local":true}
