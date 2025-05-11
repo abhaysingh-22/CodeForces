@@ -1,0 +1,1 @@
+{"name":"Local: Berland","url":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\Berland.cpp","tests":[{"id":1746720145503,"input":"4\n8 3 2\n4 2 4\n9 6 3\n42 0 7\n","output":"3\n0\n1\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\abhay\\OneDrive\\Desktop\\CodeForces\\Berland.cpp","group":"local","local":true}
